@@ -13,9 +13,18 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {
+    name: 'Samsung Galaxy A10',
+    price: 889,
+    description: 'Samsung Galaxy A10 phones'
+  },
+  {
+    name: 'Nokia Lumia 1890',
+    price: 209,
+    description: 'Nokia Lumia products'
   }
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
